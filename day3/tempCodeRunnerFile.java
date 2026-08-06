@@ -1,0 +1,1 @@
+ System.out.println(Math.pow(a,b));
