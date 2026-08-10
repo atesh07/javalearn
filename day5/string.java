@@ -18,7 +18,7 @@ public class string{
         System.out.println(name.replace("Ehtesham", "Ali"));
         String name1="    nishi    ";
         System.out.println(name1.trim());
-        String hehe="weds";
+        String hehe="weds\b";
 
      // concatination rules 
      System.out.println(name+ ""+name1.trim());
