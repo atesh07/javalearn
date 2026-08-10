@@ -3,7 +3,5 @@ public class removespace{
         String sen="java script is the best langauge";
         String result=sen.replace(" ","");
         System.out.println(result);
-       
-
     }
 }

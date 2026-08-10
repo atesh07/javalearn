@@ -1,7 +1,7 @@
 import java.util.*;
 public class sum{
     public static void main(String[] args){
-        Scanner input = new Scanner(System.in) 
+        Scanner input =new Scanner(System.in);
         double sum;
         String name="Ehtesham Anwar";
         double a,b;
@@ -13,6 +13,5 @@ public class sum{
         System.out.println("The sum of A and B is : " +sum);
         final double pi=3.14;
             System.out.println(name.getClass().getSimpleName());
-
    }
 }
