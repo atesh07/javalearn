@@ -27,6 +27,6 @@ public class switchjs{
             default :
             System.out.println("invlid entry");
                    
-                    }
+            }
     }
 }

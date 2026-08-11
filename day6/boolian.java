@@ -22,10 +22,6 @@ public class  boolian{
             System.out.println("");
         }
 
-      
-
-
-
     }
 
     }
