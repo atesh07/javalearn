@@ -10,7 +10,7 @@ public class p1{
         } else {
             System.out.println("["+num +"]"+" Odd No...");
         }
-
+        ///
 
     }
 }
